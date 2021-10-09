@@ -1,1 +1,1 @@
-This contains resources for GMAT/MBA prep
+This contains resources for GMAT/MBA preparation.
