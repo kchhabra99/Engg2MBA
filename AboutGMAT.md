@@ -1,0 +1,1 @@
+The Graduate Management Admission Test is a computer adaptive test intended to assess certain analytical, writing, quantitative, verbal, and reading skills in written English for use in admission to a graduate management program, such as an MBA program.
